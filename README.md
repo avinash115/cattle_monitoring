@@ -1,2 +1,4 @@
 # cattle_monitoring
-The developed codes of monitoring cattle behaviour. 
+An IoT-based smart cattle health monitoring system (SCHMS) has been developed to enhance wellbeing in dairy cattle, that allows to pinpoint psychological and behavioural parameters in animals. Behavioural activities such as ruminating, walking, standing, and lying, and psychological parameters such as change in ambient temperature and relative humidity are monitored to foresee the change in the behaviour that leads to pinpoint early maladies in animals. The developed system also performs monitoring that is carried out using multiple sensors and wireless communication modules. Machine learning algorithms are developed to learn from the dataset, to check the accuracy and precision of pinpointing the above-mentioned maladies in animals. This WSN solution discuss about the end-to-end design and technical aspects of remote smart cattle health monitoring system. 
+![image](https://user-images.githubusercontent.com/31062005/124160786-bd6d5f80-daf0-11eb-9771-ab1bbf838369.png)
+![image](https://user-images.githubusercontent.com/31062005/124161029-08877280-daf1-11eb-9924-8fbda6ec2cbe.png)
